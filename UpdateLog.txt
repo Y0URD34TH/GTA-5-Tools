@@ -3,3 +3,4 @@ V6.50
 Added Internet Features (internet connection switcher)
 New Colors and UI
 Removed no Sense Things
+New Menu Things
