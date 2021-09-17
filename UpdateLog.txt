@@ -1,7 +1,3 @@
-V6.75
+V7.00
 
-Added Internet Features (internet connection switcher)
-New Colors and UI
-Removed no Sense Things
-New Menu Things
-Removed Popup After Press the Binds
+Added Public Solo Glitch on Key
