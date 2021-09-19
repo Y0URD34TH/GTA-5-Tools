@@ -1,3 +1,3 @@
-V7.00
+V7.25
 
-Added Public Solo Glitch on Key
+fixed public solo dont working
