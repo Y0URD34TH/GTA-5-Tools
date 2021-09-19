@@ -8,8 +8,11 @@ For the Reason Sited Above you dont will be Banned for Using this
 Can be Used for Bugs and other Things
 
 Features:
+
 Close GTA 5 on Key pressed (quit without save and log)
+
 Disable Internet Connection and Enable on Key
+
 Public Solo on Key
 
 All Keys Can be Modified Clicking in the buttons and pressing the key that you chose
